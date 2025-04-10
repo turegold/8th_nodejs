@@ -1,7 +1,5 @@
 # 4주차 미션
 
-DDL 코드
-
 https://github.com/turegold/UMC-chapter-4/tree/feature/chapter-04
 ## 1️⃣미션 테이블
 <img width="794" alt="Image" src="https://github.com/user-attachments/assets/0284591e-8538-473e-b023-dee1e62d023e" />
