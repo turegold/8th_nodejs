@@ -4,13 +4,13 @@ https://github.com/turegold/UMC-chapter-4/tree/feature/chapter-07
 ## 가게를 추가하는 API
 ###  성공
 ![Image](https://github.com/user-attachments/assets/a2229154-93e6-46da-b175-24c28bac2142)
-### 실패
+### 실패(이미 존재하는 가게일 경우)
 ![Image](https://github.com/user-attachments/assets/90c54317-28a3-4521-837d-59d53a119a6a)
 
 ## 특정 가게의 정보를 불러오는 API
 ### 성공
 ![Image](https://github.com/user-attachments/assets/36f49f3d-098a-447f-8fd8-46d6ce1b82ac)
-### 실패
+### 실패(가게가 존재하지 않는 경우)
 ![Image](https://github.com/user-attachments/assets/4ae81ef0-be61-45b3-8a64-64d354c67510)
 
 ## 리뷰를 작성하는 API
