@@ -1,5 +1,5 @@
 # 8주차 미션
-실습 저장소 주소
+실습 저장소 주소.
 https://github.com/turegold/UMC-chapter-4/tree/feature/chapter-08
 
 ## Stores
