@@ -8,3 +8,4 @@ OpenAPI는 OpenAPI Specification(OAS)라고도 부르는데, 이는 RESTful API�
 
 ## 🧑‍💻OpenAPI Component
 OpenAPI에서 components는 공통으로 재사용할 수 있는 데이터 구조(스키마, 응답, 파라미터 등)를 정의하는 영역이다. 모든 API 응답에서 resultType, error와 같이 중복되는 구조가 존재한다면, components에 이것들을 정의해두고 $ref를 통해 불러와서 사용할 수 있다. OpenAPI 3.0 기준으로 components안에는 schemas(객체 구조), parameters(쿼리, 경로, 헤더 등), responses(응답 형식), requestBodies(요청 바디 형식), securitySchemes(인증 방식 정의)를 정의할 수 있다.
+.
